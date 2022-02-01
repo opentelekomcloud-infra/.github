@@ -4,8 +4,8 @@ You have landed in the special organization of the Open Telekom Cloud.
 Here we host tool made by us mostly for us. Those are created to address
 our own infrastructure needs.
 
-As always, everything you find here is based on opensourse, is opensourse
-and will always remain opensourse.
+As always, everything you find here is based on opensource, is opensource
+and will always remain opensource.
 
 <!--
 
