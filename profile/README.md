@@ -1,4 +1,4 @@
-## Hi there 👋
+# We are against the war!
 
 You have landed in the special organization of the Open Telekom Cloud.
 Here we host tool made by us mostly for us. Those are created to address
